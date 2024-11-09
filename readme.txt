@@ -1,8 +1,6 @@
-    # Library Management System
+# Library Management System
 
 This is a simple Library Management System built in C++ that allows users to manage a collection of books. The program supports adding books to the library, viewing all books, lending out books, returning lent books, and saving/loading the library data to/from a file.
-
-The system uses C++ features like classes, vectors, file I/O, and user interaction to provide an efficient way of managing a small library.
 
 ## Features
 
@@ -14,7 +12,8 @@ The system uses C++ features like classes, vectors, file I/O, and user interacti
 
 ## How to Use
 
-### 1. **Clone the Repository**:
-   Clone the repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/your-username/library-management-system.git
+### 1. Clone the Repository
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/library-management-system.git
